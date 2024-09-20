@@ -13,5 +13,6 @@ app.post('/',  (req, res)  => {
     'msg': "se inserto correctamente"
    })
   })
-ddf
+ddf }
+esta linea genera conflict
 app.listen(3000)
